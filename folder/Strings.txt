@@ -1,0 +1,1 @@
+<div>How to convert strings in c to corresponding Integer?</div><div>Answer :-</div><div>---------</div><div>atoi() function convert a string into corresponding integer value.use stdlib.h header file.</div>

@@ -1,0 +1,1 @@
+<div>What are the different types of c instructions?</div><div><br></div><div>Answer :-</div><div>---------</div><div>There are basically three types of instructions in C are :</div><div>Type Declaration Instruction</div><div>Arithmetic Instruction</div><div>Control Instruction</div><div><br></div>

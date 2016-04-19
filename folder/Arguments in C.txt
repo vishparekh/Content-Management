@@ -1,0 +1,1 @@
+<div>What are actual arguments?</div><div><br></div><div>When some functions are created and used to perform an action on some given values, some values need to be passed to them. The values that are passed into the called function are referred to as actual arguments.</div>

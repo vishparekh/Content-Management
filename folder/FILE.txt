@@ -1,0 +1,1 @@
+<div>What are the types of data files?</div><div><br></div><div>Answer :-</div><div>---------</div><div>There are two types of data files :</div><div>stream oriented or standard data files</div><div>system oriented or low level data files</div><div><br></div>

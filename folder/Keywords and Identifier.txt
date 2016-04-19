@@ -1,0 +1,50 @@
+Keywords and Identifier
+Keywords
+--------
+Keywords are the reserved words used in programming. 
+Each keywords has fixed meaning and that cannot be changed by user. 
+
+For example:
+int money;
+
+Here, int is a keyword that indicates, 'money' is of type integer. 
+As, C programming is case sensitive, all keywords must be written in lowercase. 
+Here is the list of all keywords predefined by ASCII C.
+
+auto 	double 	 int 	
+struct  	break 	 else
+long 	switch  	 case
+enum 	register 	typedef
+char 	extern 	 return
+union          continue 	for
+signed 	 void    	 do
+if 	 static  	 while
+default 	 goto 	 sizeof
+const 	 float 	 short 	
+unsigned 	 volatile
+
+Identifier
+----------
+
+In C programming, identifiers are names given to C entities, such as variables, functions, structures etc. 
+Identifier are created to give unique name to C entities to identify it during the execution of program. For example:
+
+int money;
+int mango_tree;
+
+Here, money is a identifier which denotes a variable of type integer. 
+Similarly, mango_tree is another identifier, which denotes another variable of type integer.
+
+Rules for writing identifier
+----------------------------
+
+ 1) An identifier can be composed of letters (both uppercase and lowercase letters), digits and underscore '_' only.
+ 
+ 2) The first letter of identifier should be either a letter or an underscore. 
+	But, it is discouraged to start an identifier name with an underscore though it is legal.
+	It is because, identifier that starts with underscore can conflict with system names. 
+	In such cases, compiler will complain about it. 
+	Some system names that start with underscore are _fileno, _iob, _wfopen etc.
+	
+ 3) There is no rule for the length of an identifier. However, the first 31 characters of an identifier are discriminated by the compiler. 
+    So, the first 31 letters of two identifiers in a program should be different.

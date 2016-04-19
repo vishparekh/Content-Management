@@ -1,0 +1,1 @@
+<div>How can variables be characterized?</div><div><br></div><div>Answer :-</div><div>---------</div><div>The variables can be categorized by storage class as well as by data type.&nbsp;</div><div>The storage class specifies the portion of the program within which the variables are recognized.</div>

@@ -1,0 +1,1 @@
+<div>What is the purpose of type declarations?</div><div><br></div><div>Answer :-</div><div>---------</div><div>The type declaration allow to create a synonym for other data types.&nbsp;</div><div>Its syntax is typedef type identifier; The declaration typedef unsigned long int INTEGER&nbsp;</div>

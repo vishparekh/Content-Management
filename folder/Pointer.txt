@@ -1,0 +1,1 @@
+<div>Can we have a pointer to a pointer in C?</div><div>Answer :</div><div>--------</div><div>Yes</div><div>char *a; &nbsp; &nbsp; &nbsp;- &nbsp; Pointer to a character</div><div>char **a; &nbsp; &nbsp; &nbsp;- &nbsp; &nbsp;Pointer to a pointer</div>

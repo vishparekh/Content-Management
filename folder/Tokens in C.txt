@@ -1,0 +1,1 @@
+<div>List the different types of C tokens?</div><div><br></div><div>Answer :-</div><div>---------</div><div>Constants</div><div>Identifiers</div><div>Keywords</div><div>Operators</div><div>Special symbols</div><div>Strings</div><div><br></div>

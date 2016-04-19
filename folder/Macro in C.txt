@@ -1,0 +1,1 @@
+<div>What are the types of macro formats?</div><div><br></div><div>Answer :-</div><div>---------</div><div>There are two types of macro formats. There are</div><div>Simple</div><div>Parameterized</div><div><br></div>

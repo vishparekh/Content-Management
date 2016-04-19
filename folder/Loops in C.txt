@@ -1,0 +1,1 @@
+<div>Why we use do-while loop in c?</div><div><br></div><div>Answer :-</div><div>---------</div><div>It is also called as post tested loop. It is used when it is necessary to execute the loop at least one time.</div>

@@ -1,0 +1,1 @@
+<div>#include&lt;stdio.h&gt;</div><div>int main(){</div><div>char str[70];</div><div>FILE *p;</div><div>if((p=fopen("string.txt","r"))==NULL){</div><div>printf("\nUnable t open file string.txt");</div><div>exit(1);</div><div>}</div><div>while(fgets(str,70,p)!=NULL)</div><div>puts(str);</div><div>fclose(p);</div><div>return 0;</div><div>}</div>

@@ -1,0 +1,1 @@
+<div>What is an Enumeration Constant?</div><div><br></div><div>Answer :-</div><div>---------</div><div>Enumeration is a data type. We can create our own data type and define values that the variable can take. This</div><div>can help in making program more readable. enum definition is similar to that of a structure.</div>

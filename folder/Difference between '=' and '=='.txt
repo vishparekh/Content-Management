@@ -1,0 +1,1 @@
+<div>Differentiate between the = symbol and == symbol?</div><div><br></div><div>The = symbol is usually used in mathematical operations. It is used to assign a value to a given variable while the == symbol is a relational operator that is used to compare two values.</div>

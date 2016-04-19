@@ -1,0 +1,1 @@
+<div>What is the use of typedef?</div><div><br></div><div>Answer :-</div><div>---------</div><div>It is a keyword that is used to give a new symbolic name for the existing name in a C program. This is same like defining alias for the commands.</div>

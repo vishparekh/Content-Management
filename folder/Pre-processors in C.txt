@@ -1,0 +1,1 @@
+<div>What are the facilities provided by preprocessor?</div><div><br></div><div>Answer :-</div><div>---------</div><div>1-file inclusion</div><div>2-substitution facility</div><div>3-conditional compilation</div>

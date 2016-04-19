@@ -1,0 +1,1 @@
+<div>What is break statement?&nbsp;</div><div><br></div><div>A break statement causes the loop to terminate. The control then passes to the statement following the body of the loop.&nbsp;</div>

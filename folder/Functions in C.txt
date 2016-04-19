@@ -1,0 +1,1 @@
+<div>What is recursion?</div><div><br></div><div>Answer :-</div><div>---------</div><div>C language a function may call another function.&nbsp;</div><div>When a function calls itself, it is referred to as recursive call and the process is known as recursion.&nbsp;</div><div>C provides very good facilities for recursion.</div>

@@ -1,0 +1,1 @@
+<div>What is a structure?</div><div><br></div><div>Answer :-</div><div>---------</div><div>A structure is a collection of pre-defined data types to create a user-defined data type.</div>

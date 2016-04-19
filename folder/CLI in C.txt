@@ -1,0 +1,1 @@
+<div>What do the ‘c’ and ‘v’ in argc and argv stand for?</div><div><br></div><div>Answer :-</div><div>---------</div><div>The c in argc(argument count) stands for the number of command line argument the program is</div><div>invoked with and v in argv(argument vector) is a pointer to an array of character string that contain the arguments.</div><div><br></div>

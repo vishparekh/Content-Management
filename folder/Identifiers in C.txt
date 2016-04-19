@@ -1,0 +1,1 @@
+<div>What are qualifiers?</div><div><br></div><div>Answer :-</div><div>---------</div><div>Qualifiers or modifiers are identifiers that may precede the scalar data types (except float) to specify the number of bits used for representing the respective type of data in memory.</div>
